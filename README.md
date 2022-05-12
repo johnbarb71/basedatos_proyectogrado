@@ -1,2 +1,2 @@
-# basedatos_proyectogrado
-Consulta SQL para la Base de Datos de proyecto de grado.
+# Base de datos para Proyecto de grado
+Consulta en formato SQL para la Base de Datos de proyecto de grado.
