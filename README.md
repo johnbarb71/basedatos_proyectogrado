@@ -7,7 +7,7 @@ Jhon Henry Barbosa González
 
 
 ### Estructura de la Base de datos
-En el primer archivo SQL encontramos la estructura de la Base de Datos relacional.
+En el primer archivo SQL RESTAPI-final.sql encontramos la estructura de la Base de Datos relacional.
 
 ### Estructura de la Base de datos con información base
-En este archivo SQL encontramos la estructura con información mínima de arranque para el aplicativo web.
+En este archivo SQL RESTAPI-finalDat.sql encontramos la estructura con información mínima de arranque para el aplicativo web.
